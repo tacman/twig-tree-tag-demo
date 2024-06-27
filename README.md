@@ -1,4 +1,10 @@
-# 
+# Installation
+
+```bash
+git clone git@github.com:tacman/twig-tree-tag-demo && cd twig-tree-tag-demo
+composer install
+symfony server:start
+```
 
 ```bash
 symfony new --webapp twig-tag-bug && cd twig-tag-bug
