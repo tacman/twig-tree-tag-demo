@@ -20,8 +20,8 @@ cat > templates/app/index.html.twig << 'END'
 
 {% block body %}
     {% set food = [
-        {   name: 'fruits', children: [{name: 'apple'},{name:'banana'}]
-        },
+        {   name: 'fruits', 
+            children: [{name: 'apple'},{name:'banana'}]        },
         {   name: 'veggies',
             children: [
             {name: 'peas'},
