@@ -56,3 +56,7 @@ services:
 
 ```
 
+## Testing
+
+composer config repositories.twig_tree '{"type": "path", "url": "/home/tac/g/tacman/twig-tree-tag"}'
+composer req tacman/twig-tree-tag:"*@dev"

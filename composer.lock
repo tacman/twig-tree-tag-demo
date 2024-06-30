@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7b741c150d487f7fc24a29a2e081bbf8",
+    "content-hash": "651c259bb90276737c0d0e77a769894e",
     "packages": [
         {
             "name": "composer/semver",
@@ -7463,16 +7463,16 @@
         },
         {
             "name": "tacman/twig-tree-tag",
-            "version": "3.1",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tacman/twig-tree-tag.git",
-                "reference": "d3e158bd2d12feed3d26907677963cb4831e18ab"
+                "reference": "c6573c770cf89f9117d09d48413428f5007da8ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tacman/twig-tree-tag/zipball/d3e158bd2d12feed3d26907677963cb4831e18ab",
-                "reference": "d3e158bd2d12feed3d26907677963cb4831e18ab",
+                "url": "https://api.github.com/repos/tacman/twig-tree-tag/zipball/c6573c770cf89f9117d09d48413428f5007da8ef",
+                "reference": "c6573c770cf89f9117d09d48413428f5007da8ef",
                 "shasum": ""
             },
             "require": {
@@ -7510,9 +7510,9 @@
             "description": "A Twig extension for succinctly traversing nested lists (e.g. navigation menus), supporting Twig 3",
             "homepage": "https://github.com/tacman/twig-tree-tag",
             "support": {
-                "source": "https://github.com/tacman/twig-tree-tag/tree/3.1"
+                "source": "https://github.com/tacman/twig-tree-tag/tree/3.1.2"
             },
-            "time": "2024-06-30T11:28:24+00:00"
+            "time": "2024-06-30T12:02:27+00:00"
         },
         {
             "name": "twig/twig",
