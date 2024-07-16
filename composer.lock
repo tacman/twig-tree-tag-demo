@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "composer/semver",
-            "version": "3.4.0",
+            "version": "3.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/semver.git",
-                "reference": "35e8d0af4486141bc745f23a29cc2091eb624a32"
+                "reference": "c51258e759afdb17f1fd1fe83bc12baaef6309d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/semver/zipball/35e8d0af4486141bc745f23a29cc2091eb624a32",
-                "reference": "35e8d0af4486141bc745f23a29cc2091eb624a32",
+                "url": "https://api.github.com/repos/composer/semver/zipball/c51258e759afdb17f1fd1fe83bc12baaef6309d6",
+                "reference": "c51258e759afdb17f1fd1fe83bc12baaef6309d6",
                 "shasum": ""
             },
             "require": {
@@ -69,7 +69,7 @@
             "support": {
                 "irc": "ircs://irc.libera.chat:6697/composer",
                 "issues": "https://github.com/composer/semver/issues",
-                "source": "https://github.com/composer/semver/tree/3.4.0"
+                "source": "https://github.com/composer/semver/tree/3.4.2"
             },
             "funding": [
                 {
@@ -85,7 +85,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-08-31T09:50:34+00:00"
+            "time": "2024-07-12T11:35:52+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -7463,16 +7463,16 @@
         },
         {
             "name": "tacman/twig-tree-tag",
-            "version": "3.1.4",
+            "version": "3.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tacman/twig-tree-tag.git",
-                "reference": "694533a191eab3f95a2e42c0289450c868993518"
+                "reference": "3f6c43d1c22540f573ff45244afba7abb2164547"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tacman/twig-tree-tag/zipball/694533a191eab3f95a2e42c0289450c868993518",
-                "reference": "694533a191eab3f95a2e42c0289450c868993518",
+                "url": "https://api.github.com/repos/tacman/twig-tree-tag/zipball/3f6c43d1c22540f573ff45244afba7abb2164547",
+                "reference": "3f6c43d1c22540f573ff45244afba7abb2164547",
                 "shasum": ""
             },
             "require": {
@@ -7510,9 +7510,9 @@
             "description": "A Twig extension for succinctly traversing nested lists (e.g. navigation menus), supporting Twig 3",
             "homepage": "https://github.com/tacman/twig-tree-tag",
             "support": {
-                "source": "https://github.com/tacman/twig-tree-tag/tree/3.1.4"
+                "source": "https://github.com/tacman/twig-tree-tag/tree/3.1.5"
             },
-            "time": "2024-07-11T10:34:22+00:00"
+            "time": "2024-07-16T17:01:35+00:00"
         },
         {
             "name": "twig/twig",
@@ -7520,12 +7520,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "aa80f21239ef55a41afa5cd3441d03810fcfde26"
+                "reference": "98e67eac9ac16ddd77e6c8211aaa7b014b58634c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/aa80f21239ef55a41afa5cd3441d03810fcfde26",
-                "reference": "aa80f21239ef55a41afa5cd3441d03810fcfde26",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/98e67eac9ac16ddd77e6c8211aaa7b014b58634c",
+                "reference": "98e67eac9ac16ddd77e6c8211aaa7b014b58634c",
                 "shasum": ""
             },
             "require": {
@@ -7584,7 +7584,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-07-11T10:06:17+00:00"
+            "time": "2024-07-16T16:42:50+00:00"
         },
         {
             "name": "webmozart/assert",
